@@ -32,7 +32,7 @@ int main(){
 
         vector<int> vec1 = { 0, 1, 2 };
         vector<int> vec2 = { 0, 1, 2 };
-        if (vec1 == vec2)
+        if (vec1 == vec2),
             cout << "The two vectors are equal." << endl;
         else
             cout << "The two vectors are not equal." << endl;
