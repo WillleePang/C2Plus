@@ -18,7 +18,7 @@ void to_lowercase(string& str){
 
 int main(){
     string hello("Hello World!");
-    cout << any_capital(hello)<<endl;
+    cout << any_capital(hello)<<endl; 
 
     to_lowercase(hello);
     cout << hello << endl;
